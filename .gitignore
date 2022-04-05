@@ -1,0 +1,7 @@
+packages
+OCRProject.txt
+MySql.Data.dll
+Newtonsoft.Json.dll
+
+/IronOcr/bin
+/IronOcr/obj
